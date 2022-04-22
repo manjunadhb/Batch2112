@@ -7,6 +7,7 @@ function App() {
       <h2  style={{color:"red"}}>Manjunadh</h2>
       <h2 style={{color:"red"}}>mirza arif ali baig</h2>
       <h2 style={{color:"khaki"}}>Pankaj Manohar Unhale</h2>
+      <h2>Tarveen Shaik</h2>
       <h2>siva krishna siriki</h2>
       <h1>prasad</h1>
       <h1>varaprasad</h1>
