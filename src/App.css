@@ -43,7 +43,8 @@ body
 }
 img
 {
-  width:300;
-  height:300;
+  width: 150px;
+  height:150px;
+  
   border-radius: 360px;
 }
