@@ -14,7 +14,6 @@ function App() {
       <h1>varaprasad</h1>
       <h1>venkatesh</h1>
       <h1>Durga Prasad Chinta</h1>
-      <h1>Changed CI Value</h1>
 
       <img src="https://i.pinimg.com/736x/db/8a/55/db8a55d19c46baed2f9d005c8455a650--telugu-cinema-nuest-jr.jpg"></img>
     </div>
